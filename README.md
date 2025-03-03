@@ -1,9 +1,6 @@
 # NinjaUrl
-NinjaUrl è un'applicazione avanzata per l'abbreviazione di URL, progettata per offrire velocità, sicurezza e personalizzazione. Il progetto è open source, ma include anche funzionalità avanzate disponibili nelle versioni standard, premium ed enterprise.
 
-# NinjaUrl
-
-![NinjaUrl Logo](https://your-logo-url.com)
+//![NinjaUrl Logo](https://your-logo-url.com)
 
 **NinjaUrl** è un'applicazione avanzata per l'abbreviazione di URL, progettata per offrire velocità, sicurezza e personalizzazione. Il progetto è **open source**, ma include anche funzionalità avanzate disponibili in una versione premium.
 
