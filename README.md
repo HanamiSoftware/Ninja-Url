@@ -86,7 +86,7 @@ Per rispettare gli standard del progetto, segui le linee guida di codifica e uti
 Hai domande o suggerimenti? Contattami su [LinkedIn](https://www.linkedin.com/in/francescobiagini/) o apri una issue su GitHub.
 
 📌 **Sito Web Ufficiale:** [https://ninjaurl.hanamisoftware.com](https://ninjaurl.hanamisoftware.com)
-📌 **Hanami Software Innovative Solutions:** [https://hanami-software.com](https://hanamisoftware.com)
+📌 **Hanami Software Innovative Solutions:** [https://hanamisoftware.com](https://hanamisoftware.com)
 
 ---
 **NinjaUrl** - Un progetto di [Hanami Software Innovative Solutions](https://hanamisoftware.com)
