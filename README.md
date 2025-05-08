@@ -1,6 +1,6 @@
 # NinjaUrl
 
-(https://drive.google.com/file/d/14MIFY94IsLiJ-bDkAaVYyzlfd3D4IDMH/view?usp=sharing)
+[Ninja Url Logo](https://drive.google.com/file/d/14MIFY94IsLiJ-bDkAaVYyzlfd3D4IDMH/view?usp=sharing)
 
 **NinjaUrl** è un'applicazione avanzata per l'abbreviazione di URL, progettata per offrire velocità, sicurezza e personalizzazione. Il progetto è **open source**, ma include anche funzionalità avanzate disponibili in una versione premium.
 
